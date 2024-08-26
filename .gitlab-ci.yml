@@ -1,0 +1,4 @@
+hello_world:
+  script:
+    - echo "Hello, world!"
+
